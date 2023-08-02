@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,7 +22,9 @@ organizations:
     url: https://icai.ai/atlas-lab/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a PhD candidate in Computer Vision Group, Informatics Institute, University of Amsterdam under the supervision of Dr. Martin R. Oswald and Prof. Dr. Theo Gevers. My research interests lie in 3D computer vision and deep learning, particularly 3D scene reconstruction and SLAM. 
+
+Before, I earned my master’s degree in data engineering and analytics from [Technical University of Munich](https://www.tum.de/en/) during which I was part of the research group from [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/). There, I was working on multiple object tracking and segmentation in 3D.
 
 # Interests to show in About widget
 interests:
@@ -40,19 +42,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/vlyug
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=sae4r88AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/VladimirYugay
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/vladimir-yugay/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -64,7 +66,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
