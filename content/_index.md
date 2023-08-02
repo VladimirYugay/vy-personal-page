@@ -15,7 +15,7 @@ sections:
     id: publications
     content:
       title: Publications
-          text: |-
+      text: |-
       filters:
         folders:
           - publication
