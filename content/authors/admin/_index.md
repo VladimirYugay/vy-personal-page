@@ -21,13 +21,6 @@ organizations:
   - name: University of Amsterdam, ATLAS Lab
     url: https://icai.ai/atlas-lab/
 
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieva
-
-
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -69,3 +62,9 @@ I am a PhD candidate in Computer Vision Group, Informatics Institute, University
 
 Before, I earned my master’s degree in data engineering and analytics from [Technical University of Munich](https://www.tum.de/en/) during which I was part of the research group from [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/). There, I was working on multiple object tracking and segmentation in 3D.
 {style="text-align: justify;"}
+
+
+News:
+* Analysing
+* Modelling
+* Deploying
