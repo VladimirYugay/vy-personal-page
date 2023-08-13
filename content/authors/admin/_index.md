@@ -22,7 +22,7 @@ organizations:
     url: https://icai.ai/atlas-lab/
 
 news:
- - Hey there!
+  - name: Hey there!
 
 
 # Social/Academic Networking
