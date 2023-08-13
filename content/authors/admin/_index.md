@@ -21,11 +21,9 @@ organizations:
   - name: University of Amsterdam, ATLAS Lab
     url: https://icai.ai/atlas-lab/
 
-# Interests to show in About widget
-News:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+news:
+ - Hey there!
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
