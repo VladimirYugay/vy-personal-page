@@ -21,8 +21,11 @@ organizations:
   - name: University of Amsterdam, ATLAS Lab
     url: https://icai.ai/atlas-lab/
 
-- news:
-  - name: Hey there!
+
+interests:
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieva
 
 
 # Social/Academic Networking
