@@ -21,7 +21,7 @@ organizations:
   - name: University of Amsterdam, ATLAS Lab
     url: https://icai.ai/atlas-lab/
 
-news:
+- news:
   - name: Hey there!
 
 
