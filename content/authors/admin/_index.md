@@ -64,7 +64,7 @@ Before, I earned my master’s degree in data engineering and analytics from [Te
 {style="text-align: justify;"}
 
 
-News:
-* Analysing
-* Modelling
-* Deploying
+**News**:
+* [Jul 09, 2023] Visiting the International Computer Vision Summer School (ICVSS) in Sicily.
+* [April 1, 2023] Excited to start my Ph.D. at the University of Amsterdam.
+* [Sept 14, 2022] One paper accepted to NeurIPS2022.
