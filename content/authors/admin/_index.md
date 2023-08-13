@@ -22,7 +22,7 @@ organizations:
     url: https://icai.ai/atlas-lab/
 
 # Interests to show in About widget
-interests:
+News:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
