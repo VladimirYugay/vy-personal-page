@@ -39,16 +39,12 @@ sections:
         - title: Ph. D. Candidate
           company: University of Amsterdam
           company_url: 'https://icai.ai/atlas-lab/'
-          company_logo: org-gc
+          company_logo: uva-logo
           location: Amsterdam
           date_start: '2023-04-01'
-          date_end: ''
+          date_end: '2027-04-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              Working on 3D Computer Vision under supervision of Martin R. Oswald
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''

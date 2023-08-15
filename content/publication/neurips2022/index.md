@@ -33,7 +33,4 @@ url_video: 'https://www.youtube.com/watch?v=LcjNoLtieBw&ab_channel=DynamicVision
 image:
   focal_point: ''
   preview_only: false
-
-banner:
-  image: "featured.png"
 ---
