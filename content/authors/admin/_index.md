@@ -58,7 +58,7 @@ email: ''
 highlight_name: false
 ---
 
-I am a PhD candidate in Computer Vision Group, Informatics Institute, University of Amsterdam under the supervision of Dr. Martin R. Oswald and Prof. Dr. Theo Gevers. My research interests lie in 3D computer vision and deep learning, particularly 3D scene reconstruction and SLAM. 
+I am a PhD candidate in Computer Vision Group, Informatics Institute, University of Amsterdam under the supervision of [Martin R. Oswald](https://people.inf.ethz.ch/moswald/) and [Theo Gevers](https://staff.fnwi.uva.nl/th.gevers/). My research interests lie in 3D computer vision and deep learning, particularly 3D scene reconstruction and SLAM. 
 
 Before, I earned my master’s degree in data engineering and analytics from [Technical University of Munich](https://www.tum.de/en/) during which I was part of the research group from [Laura Leal-Taixé](https://dvl.in.tum.de/team/lealtaixe/). There, I was working on multiple object tracking and segmentation in 3D.
 {style="text-align: justify;"}
