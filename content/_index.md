@@ -64,7 +64,7 @@ sections:
         - title: Machine Learning Engineer, Part-time
           company: Magazino
           company_url: 'https://www.magazino.eu/'
-          company_logo: kaia-logo
+          company_logo: magazino-logo
           location: Munich
           date_start: '2019-07-01'
           date_end: '2020-06-31'
