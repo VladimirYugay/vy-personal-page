@@ -39,7 +39,6 @@ sections:
         - title: Ph. D. Candidate
           company: University of Amsterdam
           company_url: 'https://icai.ai/atlas-lab/'
-          company_logo: uva-logo
           location: Amsterdam
           date_start: '2023-04-01'
           date_end: '2027-04-01'
@@ -48,7 +47,6 @@ sections:
         - title: Deep Learning Engineer
           company: KaiaHealth
           company_url: 'https://kaiahealth.com/'
-          company_logo: kaia-logo
           location: Munich
           date_start: '2020-10-01'
           date_end: '2023-03-31'
@@ -56,7 +54,6 @@ sections:
         - title: Machine Learning Engineer, Intern
           company: TWAICE
           company_url: 'https://www.twaice.com/'
-          company_logo: kaia-logo
           location: Munich
           date_start: '2020-07-01'
           date_end: '2020-10-31'
@@ -64,7 +61,6 @@ sections:
         - title: Machine Learning Engineer, Part-time
           company: Magazino
           company_url: 'https://www.magazino.eu/'
-          company_logo: magazino-logo
           location: Munich
           date_start: '2019-07-01'
           date_end: '2020-06-31'
@@ -72,7 +68,6 @@ sections:
         - title: Software Engineer, Intern
           company: Yandex
           company_url: 'https://www.yandex.ru'
-          company_logo: kaia-logo
           location: Moscow
           date_start: '2018-07-01'
           date_end: '2018-10-31'
