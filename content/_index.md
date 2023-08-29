@@ -44,6 +44,7 @@ sections:
           date_end: '2027-04-01'
           description: |2-
               Working on 3D Computer Vision under supervision of Martin R. Oswald.
+          company_logo: uva-logo
         - title: Deep Learning Engineer
           company: KaiaHealth
           company_url: 'https://kaiahealth.com/'
@@ -51,6 +52,7 @@ sections:
           date_start: '2020-10-01'
           date_end: '2023-03-31'
           description: 3D human body reconstruction and synthetic data.
+          company_logo: kaia-logo
         - title: Machine Learning Engineer, Intern
           company: TWAICE
           company_url: 'https://www.twaice.com/'
@@ -65,6 +67,7 @@ sections:
           date_start: '2019-07-01'
           date_end: '2020-06-30'
           description: Robots' perception and data pipelines.
+          company_logo: magazino-logo
         - title: Software Engineer, Intern
           company: Yandex
           company_url: 'https://www.yandex.ru'
