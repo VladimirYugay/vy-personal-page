@@ -44,7 +44,7 @@ sections:
           date_end: '2027-04-01'
           description: |2-
               Working on 3D Computer Vision under supervision of Martin R. Oswald.
-          company_logo: org-x
+          company_logo: uva-logo
         - title: Deep Learning Engineer
           company: KaiaHealth
           company_url: 'https://kaiahealth.com/'
