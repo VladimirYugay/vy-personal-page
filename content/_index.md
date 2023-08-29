@@ -63,7 +63,7 @@ sections:
           company_url: 'https://www.magazino.eu/'
           location: Munich
           date_start: '2019-07-01'
-          date_end: '2020-06-31'
+          date_end: '2020-06-30'
           description: Robots' perception and data pipelines.
         - title: Software Engineer, Intern
           company: Yandex
